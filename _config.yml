@@ -1,6 +1,10 @@
+theme: minima
 title: "ditikrushna.me"
 author: "Ditikrushna Giri"
+email: blog@chadbaldwin.net
+url: https://chadbaldwin.net
 description: "It's unlikely anyone else will come across it, but hey, that's life." 
+
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
