@@ -1,6 +1,9 @@
-Just your average everyday **nerd** 🤓, *developer* 👨‍💻, **motorcycle enthusiast** 🏍️, and ***dog dad*** 🐾.
+#### wiki about me
 
-I specialize in *cloud security*, *data security*, and *distributed systems* 🔒. Beyond work, I enjoy being a devoted dog dad 🐕, reading books 📚, and following motorsport, especially *Formula 1* 🏎️ and *motorcycle racing* 🏍️.
+Just a dude who's all about coding, designing systems, and being a dog dad. If I had to sum it up, I'd say I'm super passionate and pretty creative.
 
-Hope you enjoy what you’re reading here! 😊
+If my code editor isn't active, you'll find me with my **Spotify** playlist on loop, delving into entertaining **YouTube** videos, walking my dogs 🐾, and, without fail, watching **Formula 1** during race weekends.
 
+currently helping build some awesome **Cloud Security** products at a startup in Munich, Germany. Wanna know more? Hit me up on LinkedIn or shoot me an email!
+
+peace out ✌🏼
