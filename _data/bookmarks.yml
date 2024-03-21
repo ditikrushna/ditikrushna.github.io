@@ -1,4 +1,4 @@
 serverless:
   - name: Learn About Serverless Framework
-    description: List of Yotube vides to learn serverlsss Framework
+    description: Dive into the Serverless Framework with this comprehensive playlist. Explore the core concepts, features, and best practices for building serverless applications using Serverless Framework.
     link: https://www.youtube.com/playlist?list=PLL2hlSFBmWwzA7ut0KKYM6F8LKfu84-5c
