@@ -2,3 +2,7 @@ serverless:
   - name: Learn About Serverless Framework
     description: Dive into the Serverless Framework with this comprehensive playlist. Explore the core concepts, features, and best practices for building serverless applications using Serverless Framework.
     link: https://www.youtube.com/playlist?list=PLL2hlSFBmWwzA7ut0KKYM6F8LKfu84-5c
+  - name: Composing Serverless Framework services
+    description: Serverless Framework Compose streamlines the deployment and orchestration of multiple services within a monorepository, offering capabilities such as parallel deployment, orderly deployment sequencing, seamless sharing of outputs between services, and the ability to execute commands across the entire service ecosystem.
+    link: https://www.serverless.com/framework/docs/guides/compose 
+  
