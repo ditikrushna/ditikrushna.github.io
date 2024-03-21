@@ -5,4 +5,9 @@ serverless:
   - name: Composing Serverless Framework services
     description: Serverless Framework Compose streamlines the deployment and orchestration of multiple services within a monorepository, offering capabilities such as parallel deployment, orderly deployment sequencing, seamless sharing of outputs between services, and the ability to execute commands across the entire service ecosystem.
     link: https://www.serverless.com/framework/docs/guides/compose 
-  
+
+AWS:
+  - Athena:
+    - name: Getting Started with Amazon Athena
+      description: Learn the basics of Amazon Athena, an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL. Get started with querying data, creating tables, and visualizing results.
+      link: https://www.youtube.com/playlist?list=PLL2hlSFBmWwyuX-J0lTJE1jNqLwkW_124
