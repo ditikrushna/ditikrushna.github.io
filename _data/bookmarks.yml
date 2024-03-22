@@ -16,6 +16,9 @@ AWS:
   - name: Parallelize Processing a Large AWS S3 File
     description: This article discusses techniques for parallelizing the processing of large files stored in Amazon S3. 
     link: https://dev.to/idrisrampurawala/parallelize-processing-a-large-aws-s3-file-8eh
+  - name: Search text from PDF files stored in an S3 bucket
+    description: Does your application allow users to upload PDFs? Maybe they upload resumes, waivers, agreements or signed documents. What if they need to search the contents of these PDFs?
+    link: https://medium.com/@mixpeek/search-text-from-pdf-files-stored-in-an-s3-bucket-2f10947eebd3
 Text Extraction:
   - name: Apache Tika for Document Text Extraction
     description: Apache Tika is a powerful tool for extracting text and metadata from various file formats, including documents, spreadsheets, presentations, and more. Learn how to leverage Apache Tika for efficient text extraction in your projects.
