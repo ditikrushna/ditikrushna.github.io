@@ -10,3 +10,12 @@ AWS:
   - name: Getting Started with Amazon Athena
     description: Learn the basics of Amazon Athena, an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL. Get started with querying data, creating tables, and visualizing results.
     link: https://www.youtube.com/playlist?list=PLL2hlSFBmWwyuX-J0lTJE1jNqLwkW_124
+
+Text Extraction:
+  - name: Apache Tika for Document Text Extraction
+    description: Apache Tika is a powerful tool for extracting text and metadata from various file formats, including documents, spreadsheets, presentations, and more. Learn how to leverage Apache Tika for efficient text extraction in your projects.
+    link: https://tika.apache.org/
+  - name: Apache Tika Python Binding
+    description: Discover the Python binding for Apache Tika, enabling seamless integration of Tika's functionality into Python applications. Extract text from diverse file types effortlessly with Apache Tika's Python package.
+    link: https://github.com/chrismattmann/tika-python
+  
