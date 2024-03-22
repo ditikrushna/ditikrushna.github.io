@@ -19,6 +19,9 @@ AWS:
   - name: Search text from PDF files stored in an S3 bucket
     description: Does your application allow users to upload PDFs? Maybe they upload resumes, waivers, agreements or signed documents. What if they need to search the contents of these PDFs?
     link: https://medium.com/@mixpeek/search-text-from-pdf-files-stored-in-an-s3-bucket-2f10947eebd3
+  - name: Exploring AWS Textract, Comprehend, and S3 Using Streamlit
+    description: Explore the capabilities of AWS Textract, Comprehend, and S3 through the lens of Streamlit, a popular framework for building interactive web applications. This article guides you through leveraging these AWS services with Streamlit for a variety of text processing tasks.
+    link: https://medium.com/aws-in-plain-english/exploring-aws-textract-comprehend-and-s3-using-streamlit-13a9653bf6f2
 Text Extraction:
   - name: Apache Tika for Document Text Extraction
     description: Apache Tika is a powerful tool for extracting text and metadata from various file formats, including documents, spreadsheets, presentations, and more. Learn how to leverage Apache Tika for efficient text extraction in your projects.
