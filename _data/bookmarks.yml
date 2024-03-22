@@ -13,7 +13,9 @@ AWS:
   - name: Efficiently Streaming a Large AWS S3 File via S3 Select
     description: This article explores how to efficiently stream large files stored in Amazon S3 using S3 Select, a feature that allows you to retrieve specific data from objects without retrieving the entire object. The author provides a step-by-step guide on setting up S3 Select and demonstrates how to use it to process large CSV files, significantly reducing processing time and resource consumption.
     link: https://dev.to/idrisrampurawala/efficiently-streaming-a-large-aws-s3-file-via-s3-select-4on
-
+  - name: Parallelize Processing a Large AWS S3 File
+    description: This article discusses techniques for parallelizing the processing of large files stored in Amazon S3. 
+    link: https://dev.to/idrisrampurawala/parallelize-processing-a-large-aws-s3-file-8eh
 Text Extraction:
   - name: Apache Tika for Document Text Extraction
     description: Apache Tika is a powerful tool for extracting text and metadata from various file formats, including documents, spreadsheets, presentations, and more. Learn how to leverage Apache Tika for efficient text extraction in your projects.
