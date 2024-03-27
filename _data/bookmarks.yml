@@ -29,8 +29,11 @@ Text Extraction:
   - name: Apache Tika Python Binding
     description: Discover the Python binding for Apache Tika, enabling seamless integration of Tika's functionality into Python applications. Extract text from diverse file types effortlessly with Apache Tika's Python package.
     link: https://github.com/chrismattmann/tika-python
-  
 Text Classification:
   - name: Presidio service with Lambda Function
-  - description: Learn how to integrate Presidio, an open-source tool for sensitive data detection and anonymization, with AWS Lambda to create a serverless solution for text classification. This article provides a detailed guide on setting up the Presidio service with Lambda functions.
-  - link: https://medium.com/@tqueansg15012003/presidio-service-with-lambda-function-ccccfed19e6f
+    description: Learn how to integrate Presidio, an open-source tool for sensitive data detection and anonymization, with AWS Lambda to create a serverless solution for text classification. This article provides a detailed guide on setting up the Presidio service with Lambda functions.
+    link: https://medium.com/@tqueansg15012003/presidio-service-with-lambda-function-ccccfed19e6f
+Load Testing:
+  - name: HTTP load testing tool and library
+    description: Vegeta is a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate. It's over 9000!
+    link: https://github.com/tsenart/vegeta
