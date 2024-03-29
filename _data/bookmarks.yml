@@ -37,3 +37,7 @@ Load Testing:
   - name: HTTP load testing tool and library
     description: Vegeta is a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate. It's over 9000!
     link: https://github.com/tsenart/vegeta
+Python:
+  - name: An Introduction to Decorators in Python
+    description: Learn about decorators, one of the most powerful and useful features of Python. This article provides an introduction to decorators and their usage in Python programming.
+    link: https://aaronluna.dev/blog/intro-to-python-decorators/#what-is-a-decorator
