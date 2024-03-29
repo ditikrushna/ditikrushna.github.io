@@ -22,6 +22,9 @@ AWS:
   - name: Exploring AWS Textract, Comprehend, and S3 Using Streamlit
     description: Explore the capabilities of AWS Textract, Comprehend, and S3 through the lens of Streamlit, a popular framework for building interactive web applications. This article guides you through leveraging these AWS services with Streamlit for a variety of text processing tasks.
     link: https://medium.com/aws-in-plain-english/exploring-aws-textract-comprehend-and-s3-using-streamlit-13a9653bf6f2
+  - Necessary Configuration For AWS SQS Queues
+    description: In this article we will review the SQS queue’s configurations you need to be aware of.\
+    link: https://medium.com/@amirhosseinsoltani7/necessary-configuration-for-aws-sqs-queues-1d731c6012ec
 Text Extraction:
   - name: Apache Tika for Document Text Extraction
     description: Apache Tika is a powerful tool for extracting text and metadata from various file formats, including documents, spreadsheets, presentations, and more. Learn how to leverage Apache Tika for efficient text extraction in your projects.
